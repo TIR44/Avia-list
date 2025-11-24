@@ -320,7 +320,7 @@
     "Сайт": "https://www.airbaltic.com/"
   },
   {
-    "Название АК": "Wizz Air",
+    "Назва��ие АК": "Wizz Air",
     "Сайт": "https://wizzair.com/"
   },
   {
@@ -406,5 +406,13 @@
   {
     "Название АК": "Air Astana",
     "Сайт": "https://www.airastana.com/"
+  },
+  {
+    "Название АК": "FlyFirefly",
+    "Сайт": "https://www.fireflyz.com.my/my/en/home.html"
+  },
+  {
+    "Название АК": "Air India",
+    "Сайт": "https://www.airindia.com/"
   }
 ]
